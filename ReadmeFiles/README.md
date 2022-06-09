@@ -1,4 +1,4 @@
-#Name_of_the_Application
+# Name_of_the_Application
 __Description__
 
 
@@ -54,7 +54,7 @@ commands
 ```
 
 - **Installing Other_Dependencies**
-    - **set up **
+    - **set up**
     - **Run this Commands in the Terminal**
       ```bash 
       Commands
