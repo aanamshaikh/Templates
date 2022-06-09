@@ -1,7 +1,6 @@
 # Name_of_the_Application
 __Description__
 
-
 This project is build using  `Programmin_Language` `Framework` `Database` `Tools` `Additional stack`
 
 **This project was created using _`Tool`_ Navigate to [Tool-Link](https://tool-link.io)**
@@ -82,9 +81,9 @@ _Description_
 + open `location\`
 
 + change `variable` as per your installation
-- Now run the application  
-  -  `Additional_Tool` to know more <https://link>
-      - you can check the `Directory`
+- Now run the application
+    -  `Additional_Tool` to know more <https://link>
+        - you can check the `Directory`
 - You can navigate to `GUI_Tool` or use `Command_Line` to validate
 - For Command Line run following Commands:
 ```bash
@@ -102,7 +101,7 @@ location\
 
 example `example or link`
 - You can also test the application in Platform <https://download-link>
-- Import the file in your `Platform` and test 
+- Import the file in your `Platform` and test
 ```bash
 location\
 ```
@@ -111,10 +110,10 @@ location\
 - Description
   `location\`
 - Description
-   `location\`
+  `location\`
 - Description
-   `location\`
-- 
+  `location\`
+-
 
 
 **The following guides may also be helpful**
