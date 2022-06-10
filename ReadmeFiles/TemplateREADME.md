@@ -17,25 +17,26 @@ This project is build using  `Programmin_Language` `Framework` `Database` `Tools
 Following platform is required to run the application:
 
 - **clone the project in your system**
-  --Download and unzip the source repository or clone it using Git:
+
+    Download and unzip the source repository or clone it using Git:
 ```bash
 https://github.com/Link
 ```
 
 - **Platform_Component_Version**
-    - link to download->
-    - ```bash
-      https://github.com/Link
-      ```
-- **_To Commit the changes use Following Commands_**
-- **Make necessary changes and commit those changes**
 
-```git add .
+    link to download-> `https://github.com/Link`
+      
+- **_To Commit the changes use Following Commands_**
+
+```bash
+git add .
 git commit -m "new feature or fix"
 ```
---Push changes, replacing <add-your-branch-name>
 
-```
+Push changes, replacing <add-your-branch-name>
+
+```bash
 git push origin 
 ```
 
@@ -45,28 +46,34 @@ git push origin
 commands
 ```
 
-Alternatively, you can run the app without packaging it using -
+Alternative
 
 ```bash
 commands
 ```
 
 - **Installing Other_Dependencies**
-    - **set up**
-    - **Run this Commands in the Terminal**
-      ```bash 
-      Commands
-      ``` 
+
+    **set up**
+
+   Run this Commands in the Terminal
+      
+  ```bash 
+   Commands
+  ``` 
+
 
 - **Run The app Using Additional_Tool**
-    - Run the command `Command`
-    - To stop `Command`
+
+Run the command `Command`
+
+To stop `Command`
 
 - **You can also import the code straight into your `IDE`**
     - use `IDE_Name`
 
-- **install `Database` and `GUI_Tool`**
-    - if installing postgres in `Operating System` follow this [install-guide](https://guide-link)
+- **Install `Database` and `GUI_Tool`**
+    - If installing  in `Operating System` follow this [install-guide](https://guide-link)
 
 
 
