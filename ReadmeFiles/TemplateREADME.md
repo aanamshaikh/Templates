@@ -12,7 +12,6 @@ This project is build using  `Programmin_Language` `Framework` `Database` `Tools
 - `Additional_Dependencies`
 - `Validation_Dependencies`
 
-
 ## Prerequisites
 
 Following platform is required to run the application:

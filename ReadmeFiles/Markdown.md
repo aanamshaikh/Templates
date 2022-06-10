@@ -30,3 +30,4 @@
           - Example:
               - `*This text is italicized*`
   ![img_2.png](img_2.png)
+

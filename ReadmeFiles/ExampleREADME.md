@@ -180,3 +180,4 @@ src\main\resources\sarathi.postman_collection.json
 - Not on production
 - We are using JWT for auth, need to think if this is a right choice
 - All onboarding is manual, directly via DB inserts, no UI or API
+
