@@ -1,5 +1,7 @@
 #sarathi
+
 Application for appointment booking system
+
 _Sarathi_ is an appointment booking system for patients and doctors designed for a particular hospital
 
 This project is build using  `java` `spring boot` `postgres sql` `maven`
